@@ -1,4 +1,4 @@
-package org.sendoh.kafka.connect.transform;
+package org.sendoh.kafka.connect.transforms;
 
 import org.apache.kafka.connect.data.Schema;
 import org.apache.kafka.connect.data.SchemaBuilder;
